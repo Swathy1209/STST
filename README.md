@@ -1,9 +1,9 @@
 # VoiceTranslate Pro 🌐  
 **Speak, Translate, Listen**  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/VoiceTranslatePro)  
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/VoiceTranslatePro)  
-![GitHub license](https://img.shields.io/github/license/yourusername/VoiceTranslatePro)  
+![GitHub repo size](https://img.shields.io/github/repo-size/Swathy1209/VoiceTranslatePro)  
+![GitHub contributors](https://img.shields.io/github/contributors/Swathy1209/VoiceTranslatePro)  
+![GitHub license](https://img.shields.io/github/license/Swathy1209/VoiceTranslatePro)  
 
 ## 📌 Overview  
 VoiceTranslate Pro is a real-time speech translation app built with Streamlit. It allows users to speak in one language, get the translated text in another, and listen to the translated speech. The app supports 40+ languages, making communication seamless across different languages.  
