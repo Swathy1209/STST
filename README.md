@@ -68,7 +68,7 @@ Contributions are welcome! Follow these steps:
 5. Create a pull request  
 
 ## 💙 Credits  
-Developed with ❤️ by **AI Josh Team**  
+Developed with ❤️ by **swathiga22@gmail.com**  
 
 
 
